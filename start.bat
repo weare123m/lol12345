@@ -1,2 +1,0 @@
-NODE bc.js
-pause
